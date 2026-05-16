@@ -566,6 +566,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (state.lastUpdated) {
     const d = new Date(state.lastUpdated);
     const label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-    showToast(`Predictions loaded — last updated ${label}`);
+    showToast(`Predictions loaded - last updated ${label}`);
   }
 });
