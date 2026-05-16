@@ -8,22 +8,22 @@ A visually rich **FIFA World Cup 2026 prediction tracker** built with **pure HTM
 
 - 🌑 Premium dark theme with animated particle canvas background
 - 🏆 Prediction cards for **Awards**, **Narratives**, and **Bracket**
-- 👥 **Dynamic participant management** — add or remove participants from the admin panel
-- ✏️ **Quick inline edit** — click the pencil on any card row to edit instantly
+- 👥 **Dynamic participant management** - add or remove participants from the admin panel
+- ✏️ **Quick inline edit** - click the pencil on any card row to edit instantly
 - 🔐 **Admin panel** with tabbed interface (Awards / Narratives / Bracket / Participants)
 - 💾 All predictions and participants stored in browser `localStorage`
-- 📊 Community bracket view — Semis, Finals, and Champions
-- 📱 Fully responsive — works on mobile and desktop
+- 📊 Community bracket view - Semis, Finals, and Champions
+- 📱 Fully responsive - works on mobile and desktop
 - 🎨 Color-coded participants with custom color picker
 
 ---
 
 ## 🧱 Technologies Used
 
-- **HTML5** — Structure and layout
-- **CSS3** — Styling, animations, glassmorphism effects
-- **JavaScript (ES6+)** — Game logic, DOM rendering, admin panel
-- **localStorage** — Persistent predictions and participant data
+- **HTML5** - Structure and layout
+- **CSS3** - Styling, animations, glassmorphism effects
+- **JavaScript (ES6+)** - Game logic, DOM rendering, admin panel
+- **localStorage** - Persistent predictions and participant data
 
 ---
 
