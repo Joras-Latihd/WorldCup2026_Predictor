@@ -30,17 +30,11 @@ A visually rich **FIFA World Cup 2026 prediction tracker** built with **pure HTM
 ## 📸 Screenshots
 
 **Home Interface**
-
-> *(Add your screenshot here)*
-
+![Home](https://github.com/Joras-Latihd/WorldCup2026_Predictor/blob/aa2a2b0d3e715580acbdea4e0ec8e5e2ad6c8e52/Home%20Interface.png)
 **Prediction Cards**
-
-> *(Add your screenshot here)*
-
+![Prediction](https://github.com/Joras-Latihd/WorldCup2026_Predictor/blob/aa2a2b0d3e715580acbdea4e0ec8e5e2ad6c8e52/Prediction%20Cards.png)
 **Admin Panel**
-
-> *(Add your screenshot here)*
-
+![Admin](https://github.com/Joras-Latihd/WorldCup2026_Predictor/blob/aa2a2b0d3e715580acbdea4e0ec8e5e2ad6c8e52/Admin%20Panel.png)
 ---
 
 ## 🔐 Admin Panel
