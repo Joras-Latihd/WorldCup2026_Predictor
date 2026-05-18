@@ -1,6 +1,7 @@
 # ⚽ FIFA World Cup 2026 Prediction Showdown
 
 A visually rich **FIFA World Cup 2026 prediction tracker** built with **pure HTML, CSS, and JavaScript**, featuring a premium dark 3D theme, animated particle background, and a fully admin-managed prediction system stored in `localStorage`. Built to document pre-tournament predictions.
+
 The main purpose of building this project is to integrate it with Mission_WorldCup_2026 Project.
 
 ---
